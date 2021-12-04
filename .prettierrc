@@ -1,0 +1,5 @@
+{
+  "semi": false,  // 分号
+  "singleQuote": true, // 单引号
+  "trailingComma": "none"  // 对象结尾逗号
+}
